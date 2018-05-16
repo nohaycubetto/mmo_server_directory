@@ -1,0 +1,6 @@
+[
+{"host":"n212","port":"9899","pubHost":"n212","pubPort":"9899","name":"Lechuck","capacity":"10"},
+{"host":"n180","port":"9900","pubHost":"n180","pubPort":"9899","name":"Lean","capacity":"10"},
+{"host":"samus.qb9.net","port":"9899","pubHost":"samus.qb9.net","pubPort":"9899","name":"Samus","capacity":"10"},
+{"host":"n207","port":"9898","pubHost":"n207","pubPort":"9899","name":"Emilanesa","capacity":"1200"}
+]
